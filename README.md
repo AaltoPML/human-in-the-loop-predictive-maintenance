@@ -1,7 +1,8 @@
 #  Experiments with Synthetic Data for Human-in-the-Loop Large-Scale Predictive Maintenance of Workstations
 
 This repository contains toy experiments with synthetic data for the publication
-* Alexander Nikitin and Samuel Kaski (2022). **Human-in-the-Loop Large-Scale Predictive Maintenance of Workstations**. 
+* Alexander Nikitin and Samuel Kaski (2022). **Human-in-the-Loop Large-Scale Predictive Maintenance of Workstations**.   
+[[ACM]](https://dl.acm.org/doi/abs/10.1145/3534678.3539196) | [[Arxiv]](https://arxiv.org/pdf/2206.11574.pdf)
 
 For production implementation, check Sections "5. Industrial Implementation" and "6.2 Online Experiments" of the paper.
 
