@@ -43,9 +43,11 @@ Open with jupyter-notebook:
 ## Citation
 If you found the publication useful for your research, please cite the paper as follows:
 ```bibtex
-@inproceedings{nikitin2022pdm,
-  title={Alexander Nikitin and Samuel Kaski},
-  author={Human-in-the-Loop Large-Scale Predictive Maintenance of Workstations},
+@inproceedings{nikitin2022human,
+  title={Human-in-the-loop large-scale predictive maintenance of workstations},
+  author={Nikitin, Alexander and Kaski, Samuel},
+  booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={3682--3690},
   year={2022}
 }
 ```
